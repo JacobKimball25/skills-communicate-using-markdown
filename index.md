@@ -12,7 +12,7 @@ var myVar = "Hello, world!";
 ```
 
 ## First List
-- [ ] Learn how to walk
-- [ ] Learn how to drive
+- [x] Learn how to walk
+- [x] Learn how to drive
 - [ ] Graduate College
 - [ ] Get job in software development
