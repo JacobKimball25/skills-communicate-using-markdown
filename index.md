@@ -10,3 +10,9 @@ This is not a header.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+## First List
+- [ ] Learn how to walk
+- [ ] Learn how to drive
+- [ ] Graduate College
+- [ ] Get job in software development
